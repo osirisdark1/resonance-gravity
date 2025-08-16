@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+.eggs/
+build/
+dist/
+.vscode/
+.idea/
+outputs/
